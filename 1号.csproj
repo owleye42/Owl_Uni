@@ -282,9 +282,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\controller.cs" />
+    <Compile Include="Assets\Controller.cs" />
     <Compile Include="Assets\rotater.cs" />
     <Compile Include="Assets\xi.cs" />
+    <Compile Include="Assets\Xi_player.cs" />
     <Compile Include="Assets\xiBase.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
